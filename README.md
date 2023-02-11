@@ -1,8 +1,10 @@
-<h1 align="center">DevLinks</h1>
-<p align="center">Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia WEB</p>
+<h1 align="center">Coisas Da Catanha</h1>
+<div align="center">
+  <p>Social Medias Links</p>
+</div>
 
 <p align="center">
-  <img src=".github/preview.jpg" alt="DevLinks Project" width="100%">
+  <img src=".github/readme.png" alt="Screenshot Page" width="100%">
 </p>
 
 # 🚀 Techs
