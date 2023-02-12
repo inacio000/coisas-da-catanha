@@ -168,6 +168,7 @@ ul li a h2 {
   margin: 8px 0;
   text-align: center;
 }
+
 ul li a p {
   text-align: center;
   margin-bottom: 8px;
@@ -277,7 +278,7 @@ ul li a:hover {
     left: 50%;
   }
 
-  to { 
+  to {
     left: 0;
   }
 }
