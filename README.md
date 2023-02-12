@@ -19,4 +19,10 @@ Agregador de links para usar como cartão de visita.
 # 🔖 Layout
 Você pode visualizar o layout do projecto através [🔗DESTE LINK](https://www.figma.com/file/OiOGa0XRKdk3xWXmgLBQRA/DevLinks-(Community)?node-id=0%3A1&t=0ylDuS4ldhX45ZbE-1). E necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-### [🔗Clique aqui para acessar a página](https://inacio000.github.io/Dev-Links/)
+### [🔗Clique aqui para acessar a página](https://inacio000.github.io/coisas-da-catanha/)
+### Or scan the QR code bellow
+#
+
+<div align="center">
+  <img src="./assets/frame.png" />
+</div>
