@@ -1,6 +1,6 @@
 <h1 align="center">Coisas Da Catanha</h1>
 <div align="center">
-  <p>Social Medias Links</p>
+  <p>Social Media Links</p>
 </div>
 
 <p align="center">
